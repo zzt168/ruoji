@@ -1,0 +1,5 @@
+cd wd-epot
+git branch
+git checkout -b zt origin/zt
+git checkout -b zy origin/zy
+git checkout zt
